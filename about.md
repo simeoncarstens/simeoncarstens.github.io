@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is Simeon's blog. Simeon is interested in many things fun&mdash;data science, machine learning, statistics, physics, maths, biology, and music.
-Simeon works as a Data Scientist at [Tweag I/O](https://tweag.io), but his blog is strictly private. Simeon once was a scientist and did [research on Bayesian chromatin stucture determination](https://scholar.google.com/citations?user=peo8zFMAAAAJ&hl=en). Simeon out.
+This is Simeon's personal website. Simeon is interested in all things fun &mdash; data science, machine learning, statistics, physics, maths, biology, music, and more. Also rock climbing. But this is a purely offline hobby.  
+Simeon works as a Data Scientist, but this website is strictly private. Simeon once was a scientist. Simeon out.

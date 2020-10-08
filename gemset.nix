@@ -773,6 +773,16 @@
     };
     version = "0.10.1";
   };
+  rdiscount = {
+    groups = ["default"];
+    platforms = [];
+    source = {
+      remotes = ["https://rubygems.org"];
+      sha256 = "16srf8cr8ynlafyh6ls654b9a3bqgai8n3y86zzv9mcpvlk6k27g";
+      type = "gem";
+    };
+    version = "2.2.0.2";
+  };
   rexml = {
     groups = ["default"];
     platforms = [];

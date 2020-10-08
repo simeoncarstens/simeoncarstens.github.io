@@ -18,21 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Title TDB
+# markdown: rdiscount
+# rdiscount:
+#   extensions: [smart]
+  
+title: Simeon's personal website
 email: blog@simeon-carstens.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Random musings about physics, simulation, and other science stuff.
-  Possibly some developer / data science / engineering nuggets. And perhaps
-  the occasional music post. There's really no overarching theme here.
+  --- blank space for your sharpie notes ---
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simeoncarstens.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: simeoncarstens
 github_username:  simeoncarstens
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - index.md
+  - work.md
+  - science.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,4 +63,3 @@ exclude:
   - vendor/ruby/
   - default.nix
   - gemset.nix
-  - index_d.html

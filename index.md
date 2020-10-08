@@ -5,5 +5,4 @@
 layout: default
 ---
 
-# Hello
-LOL
+Welcome, fellow online being. Welcome to my little corner of the internet. So far, there's not much to see here, but there _will_ be a blog, because apparently that's what the cool kids do nowadays.
