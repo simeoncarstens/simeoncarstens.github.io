@@ -38,6 +38,7 @@ plugins:
 
 header_pages:
   - index.md
+  - projects.md
   - work.md
   - science.md
   - about.md
